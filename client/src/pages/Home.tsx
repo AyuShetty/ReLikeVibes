@@ -7,7 +7,7 @@ import MagneticLink from "@/components/MagneticLink";
 import SignalCanvas, { type SignalStage } from "@/components/SignalCanvas";
 
 const HERO_IMAGE = "/manus-storage/relike-hero-vinyl-gold_a0367f0e.jpg";
-const COMPLETE_VINYL = "/manus-storage/abhay-complete-vinyl_03e8d72a.png";
+const COMPLETE_VINYL = "/vinyl.PNG";
 const SILVER_MILESTONE = "/manus-storage/relike-silver-milestone_d8520019.jpg";
 const GOLD_MILESTONE = "/manus-storage/relike-gold-milestone_8177e89a.jpg";
 const RECORD_MARK = "/manus-storage/relike-record-mark_0daa93e8.png";
