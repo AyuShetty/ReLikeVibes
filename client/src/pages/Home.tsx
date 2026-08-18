@@ -817,7 +817,7 @@ export default function Home() {
           </div>
         </section>
       </main>
-      <footer className="story-footer"><span>ABHAY SREEJITH / MARKETING PORTFOLIO</span><span>FLAGSHIP CASE / RE:LIKE VIBES</span><a href="#opening" data-cursor="TOP"><Plus size={14} /> BACK TO OPENING</a></footer>
+      <footer className="story-footer"><span>ABHAY SREEJITH / MARKETING PORTFOLIO</span><span>FLAGSHIP CASE / RE:LIKE VIBES</span><a href="https://ayushetty.me/#contact" target="_blank" rel="noreferrer">made with 💚 by Ayush Shetty</a><a href="#opening" data-cursor="TOP"><Plus size={14} /> BACK TO OPENING</a></footer>
     </div>
   );
 }
